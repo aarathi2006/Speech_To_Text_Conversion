@@ -36,3 +36,4 @@ PyAudio / Audio Processing Tools
 4.Spoken words are converted into text
 
 5.Transcribed text is displayed as output
+<img width="860" height="580" alt="Image" src="https://github.com/user-attachments/assets/3c1baed0-0a7d-46c6-a31b-998d48628446" />
