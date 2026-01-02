@@ -1,4 +1,16 @@
 # 🗣️ Speech to Text Conversion
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : BODDU AARATHI
+
+INTERN ID : CT08DR2286
+
+DOMAIN : ARTIFICIAL INTELLIGENCE
+
+DURATION : 8 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
 The Speech to Text Conversion project is an AI-based application that converts spoken language into written text using speech recognition technology. The goal of this project is to enable seamless interaction between humans and machines by transforming audio input into accurate, readable text.
 
 The system accepts audio input in common formats such as WAV, MP3, or real-time microphone input and processes it using Automatic Speech Recognition (ASR) techniques. It analyzes audio signals, extracts speech features, and converts them into text while handling background noise and variations in speech patterns.
