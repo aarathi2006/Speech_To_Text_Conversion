@@ -1,4 +1,4 @@
-# 🗣️ Speech to Text Conversion
+# 🗣️ Speech Recognition System
 COMPANY : CODTECH IT SOLUTIONS
 
 NAME : BODDU AARATHI
